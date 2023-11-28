@@ -1,0 +1,23 @@
+{
+  "name": "public",
+  "version": "1.0.0",
+  "description": "server side and functionality ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "run "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1narybot/F1-Fansite.git"
+  },
+  "author": "Tounga saidou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B1narybot/F1-Fansite/issues"
+  },
+  "homepage": "https://github.com/B1narybot/F1-Fansite#readme",
+  "dependencies": {
+    "ejs": "^3.1.9"
+  }
+}
