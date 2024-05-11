@@ -1,27 +1,19 @@
-# F1Fansite
+# F1-Website 
+F1 2014 Fan Website
+Welcome to the F1 2014 Fan Website! This platform is dedicated to reliving the excitement of the Formula 1 season of 2014. Immerse yourself in the thrilling moments, statistics, and stories of that iconic racing season. Whether you're a nostalgic fan or new to the 2014 F1 season, this site is designed to take you on a journey through one of the most memorable years in Formula 1 history.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
 
-## Development server
+Features
+1. Season Highlights
+Relive the key moments of the 2014 Formula 1 season through a curated collection of highlights. From spectacular races to unexpected twists, this section captures the essence of each Grand Prix.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+2. Driver and Team Standings
+Explore the detailed standings of drivers and teams throughout the 2014 season. Dive into the statistics, victories, and challenges faced by your favorite drivers and teams.
 
-## Code scaffolding
+Usage
+Explore the website to immerse yourself in the 2014 F1 season. Navigate through the season highlights, standings, race breakdowns, and memorable moments to experience the excitement of each race.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Contributing
+We welcome contributions to enhance the content and features of the F1 2014 Fan Website. If you have suggestions, found a bug, or want to contribute in any way, please refer to our Contributing Guidelines.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Thank you for joining us on this nostalgic journey through the 2014 Formula 1 season. Enjoy the ride! 🏎️🏁
